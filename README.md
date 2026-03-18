@@ -1,9 +1,23 @@
 <p align="center">
-  <h1 align="center">🔥 El gholb Mohamed 🔥</h1>
+  <h1 align="center">🔥✨ El gholb Mohamed . Full Stack Developer✨🔥</h1>
   <p align="center">
-    <b>Full Stack Developer | AI Enthusiast 🚀</b>
+    <b> | AI Enthusiast 🚀</b>
   </p>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yassine+El+Amrani;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>✨ Crafting code with care • Designing with passion • Building digital experiences 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+
+
 
 ---
 
